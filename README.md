@@ -15,3 +15,11 @@ This repository contains my complete implementation of the lab assignments from 
 - Score-based Modelling & Denoising
 
 These labs follow the course structure closely, translating the theoretical foundations into hands-on implementations.
+
+**Repository Structure**
+```
+  ├── lab01_intro_diffusion/           # Forward and reverse diffusion, noise schedules
+  ├── lab02_score_matching/           # Score functions, denoising, NCSN
+  ├── lab03_conditional_image_generation/        # SDEs, FP equation, continuous-time diffusion
+  └── README.md                       # Documentation (this file)
+```
